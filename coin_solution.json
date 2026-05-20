@@ -1,0 +1,867 @@
+{
+  "metadata": {
+    "description": "Coin detection results for target image set",
+    "total_images": 142,
+    "currency": "EUR"
+  },
+  "results": [
+    {
+      "image_name": "image_1.jpg",
+      "total_value_cents": 8,
+      "total_value_euros": 0.08,
+      "coins_composition": [5, 2, 1]
+    },
+    {
+      "image_name": "image_2.jpg",
+      "total_value_cents": 10,
+      "total_value_euros": 0.10,
+      "coins_composition": [10]
+    },
+    {
+      "image_name": "image_3.jpg",
+      "total_value_cents": 15,
+      "total_value_euros": 0.15,
+      "coins_composition": [5, 5, 2, 2, 1]
+    },
+    {
+      "image_name": "image_4.jpg",
+      "total_value_cents": 1,
+      "total_value_euros": 0.01,
+      "coins_composition": [1]
+    },
+    {
+      "image_name": "image_5.jpg",
+      "total_value_cents": 10,
+      "total_value_euros": 0.10,
+      "coins_composition": [10]
+    },
+    {
+      "image_name": "image_6.jpg",
+      "total_value_cents": 20,
+      "total_value_euros": 0.20,
+      "coins_composition": [20]
+    },
+    {
+      "image_name": "image_7.jpg",
+      "total_value_cents": 105,
+      "total_value_euros": 1.05,
+      "coins_composition": [50, 50, 5]
+    },
+    {
+      "image_name": "image_8.jpg",
+      "total_value_cents": 2,
+      "total_value_euros": 0.02,
+      "coins_composition": [2]
+    },
+    {
+      "image_name": "image_9.jpg",
+      "total_value_cents": 5,
+      "total_value_euros": 0.05,
+      "coins_composition": [5]
+    },
+    {
+      "image_name": "image_10.jpg",
+      "total_value_cents": 10,
+      "total_value_euros": 0.10,
+      "coins_composition": [10]
+    },
+    {
+      "image_name": "image_11.jpg",
+      "total_value_cents": 150,
+      "total_value_euros": 1.50,
+      "coins_composition": [100, 50]
+    },
+    {
+      "image_name": "image_12.jpg",
+      "total_value_cents": 55,
+      "total_value_euros": 0.55,
+      "coins_composition": [50, 5]
+    },
+    {
+      "image_name": "image_13.jpg",
+      "total_value_cents": 100,
+      "total_value_euros": 1.00,
+      "coins_composition": [100]
+    },
+    {
+      "image_name": "image_14.jpg",
+      "total_value_cents": 20,
+      "total_value_euros": 0.20,
+      "coins_composition": [20]
+    },
+    {
+      "image_name": "image_15.jpg",
+      "total_value_cents": 5,
+      "total_value_euros": 0.05,
+      "coins_composition": [5]
+    },
+    {
+      "image_name": "image_16.jpg",
+      "total_value_cents": 3,
+      "total_value_euros": 0.03,
+      "coins_composition": [2, 1]
+    },
+    {
+      "image_name": "image_17.jpg",
+      "total_value_cents": 125,
+      "total_value_euros": 1.25,
+      "coins_composition": [100, 20, 5]
+    },
+    {
+      "image_name": "image_18.jpg",
+      "total_value_cents": 107,
+      "total_value_euros": 1.07,
+      "coins_composition": [100, 5, 2]
+    },
+    {
+      "image_name": "image_19.jpg",
+      "total_value_cents": 50,
+      "total_value_euros": 0.50,
+      "coins_composition": [50]
+    },
+    {
+      "image_name": "image_20.jpg",
+      "total_value_cents": 8,
+      "total_value_euros": 0.08,
+      "coins_composition": [5, 2, 1]
+    },
+    {
+      "image_name": "image_21.jpg",
+      "total_value_cents": 2,
+      "total_value_euros": 0.02,
+      "coins_composition": [2]
+    },
+    {
+      "image_name": "image_22.jpg",
+      "total_value_cents": 200,
+      "total_value_euros": 2.00,
+      "coins_composition": [200]
+    },
+    {
+      "image_name": "image_23.jpg",
+      "total_value_cents": 25,
+      "total_value_euros": 0.25,
+      "coins_composition": [20, 5]
+    },
+    {
+      "image_name": "image_24.jpg",
+      "total_value_cents": 35,
+      "total_value_euros": 0.35,
+      "coins_composition": [20, 10, 5]
+    },
+    {
+      "image_name": "image_25.jpg",
+      "total_value_cents": 225,
+      "total_value_euros": 2.25,
+      "coins_composition": [200, 20, 5]
+    },
+    {
+      "image_name": "image_26.jpg",
+      "total_value_cents": 3,
+      "total_value_euros": 0.03,
+      "coins_composition": [2, 1]
+    },
+    {
+      "image_name": "image_27.jpg",
+      "total_value_cents": 335,
+      "total_value_euros": 3.35,
+      "coins_composition": [200, 100, 20, 10, 5]
+    },
+    {
+      "image_name": "image_28.jpg",
+      "total_value_cents": 105,
+      "total_value_euros": 1.05,
+      "coins_composition": [100, 5]
+    },
+    {
+      "image_name": "image_29.jpg",
+      "total_value_cents": 100,
+      "total_value_euros": 1.00,
+      "coins_composition": [100]
+    },
+    {
+      "image_name": "image_30.jpg",
+      "total_value_cents": 11,
+      "total_value_euros": 0.11,
+      "coins_composition": [5, 5, 1]
+    },
+    {
+      "image_name": "image_31.jpg",
+      "total_value_cents": 150,
+      "total_value_euros": 1.50,
+      "coins_composition": [100, 50]
+    },
+    {
+      "image_name": "image_32.jpg",
+      "total_value_cents": 130,
+      "total_value_euros": 1.30,
+      "coins_composition": [100, 20, 10]
+    },
+    {
+      "image_name": "image_33.jpg",
+      "total_value_cents": 2,
+      "total_value_euros": 0.02,
+      "coins_composition": [2]
+    },
+    {
+      "image_name": "image_34.jpg",
+      "total_value_cents": 20,
+      "total_value_euros": 0.20,
+      "coins_composition": [20]
+    },
+    {
+      "image_name": "image_35.jpg",
+      "total_value_cents": 20,
+      "total_value_euros": 0.20,
+      "coins_composition": [20]
+    },
+    {
+      "image_name": "image_36.jpg",
+      "total_value_cents": 300,
+      "total_value_euros": 3.00,
+      "coins_composition": [200, 100]
+    },
+    {
+      "image_name": "image_37.jpg",
+      "total_value_cents": 115,
+      "total_value_euros": 1.15,
+      "coins_composition": [100, 10, 5]
+    },
+    {
+      "image_name": "image_38.jpg",
+      "total_value_cents": 171,
+      "total_value_euros": 1.71,
+      "coins_composition": [100, 20, 20, 20, 5, 5, 1]
+    },
+    {
+      "image_name": "image_39.jpg",
+      "total_value_cents": 101,
+      "total_value_euros": 1.01,
+      "coins_composition": [100, 1]
+    },
+    {
+      "image_name": "image_40.jpg",
+      "total_value_cents": 335,
+      "total_value_euros": 3.35,
+      "coins_composition": [200, 100, 20, 10, 5]
+    },
+    {
+      "image_name": "image_41.jpg",
+      "total_value_cents": 50,
+      "total_value_euros": 0.50,
+      "coins_composition": [50]
+    },
+    {
+      "image_name": "image_42.jpg",
+      "total_value_cents": 200,
+      "total_value_euros": 2.00,
+      "coins_composition": [200]
+    },
+    {
+      "image_name": "image_43.jpg",
+      "total_value_cents": 30,
+      "total_value_euros": 0.30,
+      "coins_composition": [20, 10]
+    },
+    {
+      "image_name": "image_44.jpg",
+      "total_value_cents": 300,
+      "total_value_euros": 3.00,
+      "coins_composition": [200, 100]
+    },
+    {
+      "image_name": "image_45.jpg",
+      "total_value_cents": 115,
+      "total_value_euros": 1.15,
+      "coins_composition": [100, 10, 5]
+    },
+    {
+      "image_name": "image_46.jpg",
+      "total_value_cents": 170,
+      "total_value_euros": 1.70,
+      "coins_composition": [100, 50, 20]
+    },
+    {
+      "image_name": "image_47.jpg",
+      "total_value_cents": 155,
+      "total_value_euros": 1.55,
+      "coins_composition": [100, 50, 5]
+    },
+    {
+      "image_name": "image_48.jpg",
+      "total_value_cents": 5,
+      "total_value_euros": 0.05,
+      "coins_composition": [5]
+    },
+    {
+      "image_name": "image_49.jpg",
+      "total_value_cents": 170,
+      "total_value_euros": 1.70,
+      "coins_composition": [100, 50, 20]
+    },
+    {
+      "image_name": "image_50.jpg",
+      "total_value_cents": 3,
+      "total_value_euros": 0.03,
+      "coins_composition": [2, 1]
+    },
+    {
+      "image_name": "image_51.jpg",
+      "total_value_cents": 80,
+      "total_value_euros": 0.80,
+      "coins_composition": [20, 20, 20, 20]
+    },
+    {
+      "image_name": "image_52.jpg",
+      "total_value_cents": 155,
+      "total_value_euros": 1.55,
+      "coins_composition": [50, 50, 20, 20, 10, 5]
+    },
+    {
+      "image_name": "image_53.jpg",
+      "total_value_cents": 50,
+      "total_value_euros": 0.50,
+      "coins_composition": [50]
+    },
+    {
+      "image_name": "image_54.jpg",
+      "total_value_cents": 105,
+      "total_value_euros": 1.05,
+      "coins_composition": [100, 5]
+    },
+    {
+      "image_name": "image_55.jpg",
+      "total_value_cents": 300,
+      "total_value_euros": 3.00,
+      "coins_composition": [200, 100]
+    },
+    {
+      "image_name": "image_56.jpg",
+      "total_value_cents": 20,
+      "total_value_euros": 0.20,
+      "coins_composition": [20]
+    },
+    {
+      "image_name": "image_57.jpg",
+      "total_value_cents": 260,
+      "total_value_euros": 2.60,
+      "coins_composition": [200, 50, 10]
+    },
+    {
+      "image_name": "image_58.jpg",
+      "total_value_cents": 350,
+      "total_value_euros": 3.50,
+      "coins_composition": [200, 100, 50]
+    },
+    {
+      "image_name": "image_59.jpg",
+      "total_value_cents": 25,
+      "total_value_euros": 0.25,
+      "coins_composition": [20, 5]
+    },
+    {
+      "image_name": "image_60.jpg",
+      "total_value_cents": 1,
+      "total_value_euros": 0.01,
+      "coins_composition": [1]
+    },
+    {
+      "image_name": "image_61.jpg",
+      "total_value_cents": 200,
+      "total_value_euros": 2.00,
+      "coins_composition": [200]
+    },
+    {
+      "image_name": "image_62.jpg",
+      "total_value_cents": 102,
+      "total_value_euros": 1.02,
+      "coins_composition": [100, 2]
+    },
+    {
+      "image_name": "image_63.jpg",
+      "total_value_cents": 5,
+      "total_value_euros": 0.05,
+      "coins_composition": [2, 2, 1]
+    },
+    {
+      "image_name": "image_64.jpg",
+      "total_value_cents": 1,
+      "total_value_euros": 0.01,
+      "coins_composition": [1]
+    },
+    {
+      "image_name": "image_65.jpg",
+      "total_value_cents": 2,
+      "total_value_euros": 0.02,
+      "coins_composition": [2]
+    },
+    {
+      "image_name": "image_66.jpg",
+      "total_value_cents": 8,
+      "total_value_euros": 0.08,
+      "coins_composition": [5, 2, 1]
+    },
+    {
+      "image_name": "image_67.jpg",
+      "total_value_cents": 101,
+      "total_value_euros": 1.01,
+      "coins_composition": [100, 1]
+    },
+    {
+      "image_name": "image_68.jpg",
+      "total_value_cents": 100,
+      "total_value_euros": 1.00,
+      "coins_composition": [100]
+    },
+    {
+      "image_name": "image_69.jpg",
+      "total_value_cents": 5,
+      "total_value_euros": 0.05,
+      "coins_composition": [5]
+    },
+    {
+      "image_name": "image_70.jpg",
+      "total_value_cents": 2,
+      "total_value_euros": 0.02,
+      "coins_composition": [2]
+    },
+    {
+      "image_name": "image_71.jpg",
+      "total_value_cents": 100,
+      "total_value_euros": 1.00,
+      "coins_composition": [100]
+    },
+    {
+      "image_name": "image_72.jpg",
+      "total_value_cents": 206,
+      "total_value_euros": 2.06,
+      "coins_composition": [200, 5, 1]
+    },
+    {
+      "image_name": "image_73.jpg",
+      "total_value_cents": 107,
+      "total_value_euros": 1.07,
+      "coins_composition": [100, 5, 2]
+    },
+    {
+      "image_name": "image_74.jpg",
+      "total_value_cents": 7,
+      "total_value_euros": 0.07,
+      "coins_composition": [5, 2]
+    },
+    {
+      "image_name": "image_75.jpg",
+      "total_value_cents": 300,
+      "total_value_euros": 3.00,
+      "coins_composition": [200, 100]
+    },
+    {
+      "image_name": "image_76.jpg",
+      "total_value_cents": 140,
+      "total_value_euros": 1.40,
+      "coins_composition": [50, 50, 20, 20]
+    },
+    {
+      "image_name": "image_77.jpg",
+      "total_value_cents": 110,
+      "total_value_euros": 1.10,
+      "coins_composition": [100, 5, 5]
+    },
+    {
+      "image_name": "image_78.jpg",
+      "total_value_cents": 320,
+      "total_value_euros": 3.20,
+      "coins_composition": [200, 100, 20]
+    },
+    {
+      "image_name": "image_79.jpg",
+      "total_value_cents": 380,
+      "total_value_euros": 3.80,
+      "coins_composition": [200, 100, 50, 20, 10]
+    },
+    {
+      "image_name": "image_80.jpg",
+      "total_value_cents": 12,
+      "total_value_euros": 0.12,
+      "coins_composition": [10, 2]
+    },
+    {
+      "image_name": "image_81.jpg",
+      "total_value_cents": 50,
+      "total_value_euros": 0.50,
+      "coins_composition": [50]
+    },
+    {
+      "image_name": "image_82.jpg",
+      "total_value_cents": 5,
+      "total_value_euros": 0.05,
+      "coins_composition": [5]
+    },
+    {
+      "image_name": "image_83.jpg",
+      "total_value_cents": 20,
+      "total_value_euros": 0.20,
+      "coins_composition": [20]
+    },
+    {
+      "image_name": "image_84.jpg",
+      "total_value_cents": 14,
+      "total_value_euros": 0.14,
+      "coins_composition": [5, 5, 2, 2]
+    },
+    {
+      "image_name": "image_85.jpg",
+      "total_value_cents": 335,
+      "total_value_euros": 3.35,
+      "coins_composition": [200, 100, 20, 10, 5]
+    },
+    {
+      "image_name": "image_86.jpg",
+      "total_value_cents": 107,
+      "total_value_euros": 1.07,
+      "coins_composition": [100, 5, 2]
+    },
+    {
+      "image_name": "image_87.jpg",
+      "total_value_cents": 5,
+      "total_value_euros": 0.05,
+      "coins_composition": [5]
+    },
+    {
+      "image_name": "image_88.jpg",
+      "total_value_cents": 24,
+      "total_value_euros": 0.24,
+      "coins_composition": [10, 5, 5, 2, 1, 1]
+    },
+    {
+      "image_name": "image_89.jpg",
+      "total_value_cents": 102,
+      "total_value_euros": 1.02,
+      "coins_composition": [100, 2]
+    },
+    {
+      "image_name": "image_90.jpg",
+      "total_value_cents": 3,
+      "total_value_euros": 0.03,
+      "coins_composition": [2, 1]
+    },
+    {
+      "image_name": "image_91.jpg",
+      "total_value_cents": 1,
+      "total_value_euros": 0.01,
+      "coins_composition": [1]
+    },
+    {
+      "image_name": "image_92.jpg",
+      "total_value_cents": 106,
+      "total_value_euros": 1.06,
+      "coins_composition": [100, 5, 1]
+    },
+    {
+      "image_name": "image_93.jpg",
+      "total_value_cents": 10,
+      "total_value_euros": 0.10,
+      "coins_composition": [10]
+    },
+    {
+      "image_name": "image_94.jpg",
+      "total_value_cents": 8,
+      "total_value_euros": 0.08,
+      "coins_composition": [5, 2, 1]
+    },
+    {
+      "image_name": "image_95.jpg",
+      "total_value_cents": 255,
+      "total_value_euros": 2.55,
+      "coins_composition": [200, 50, 5]
+    },
+    {
+      "image_name": "image_96.jpg",
+      "total_value_cents": 388,
+      "total_value_euros": 3.88,
+      "coins_composition": [200, 100, 50, 20, 10, 5, 2, 1]
+    },
+    {
+      "image_name": "image_97.jpg",
+      "total_value_cents": 340,
+      "total_value_euros": 3.40,
+      "coins_composition": [200, 100, 20, 20]
+    },
+    {
+      "image_name": "image_98.jpg",
+      "total_value_cents": 216,
+      "total_value_euros": 2.16,
+      "coins_composition": [200, 10, 5, 1]
+    },
+    {
+      "image_name": "image_99.jpg",
+      "total_value_cents": 2,
+      "total_value_euros": 0.02,
+      "coins_composition": [2]
+    },
+    {
+      "image_name": "image_100.jpg",
+      "total_value_cents": 2,
+      "total_value_euros": 0.02,
+      "coins_composition": [2]
+    },
+    {
+      "image_name": "image_101.jpg",
+      "total_value_cents": 125,
+      "total_value_euros": 1.25,
+      "coins_composition": [100, 20, 5]
+    },
+    {
+      "image_name": "image_102.jpg",
+      "total_value_cents": 27,
+      "total_value_euros": 0.27,
+      "coins_composition": [20, 5, 2]
+    },
+    {
+      "image_name": "image_103.jpg",
+      "total_value_cents": 35,
+      "total_value_euros": 0.35,
+      "coins_composition": [20, 10, 5]
+    },
+    {
+      "image_name": "image_104.jpg",
+      "total_value_cents": 200,
+      "total_value_euros": 2.00,
+      "coins_composition": [200]
+    },
+    {
+      "image_name": "image_105.jpg",
+      "total_value_cents": 5,
+      "total_value_euros": 0.05,
+      "coins_composition": [5]
+    },
+    {
+      "image_name": "image_106.jpg",
+      "total_value_cents": 305,
+      "total_value_euros": 3.05,
+      "coins_composition": [200, 100, 5]
+    },
+    {
+      "image_name": "image_107.jpg",
+      "total_value_cents": 2,
+      "total_value_euros": 0.02,
+      "coins_composition": [2]
+    },
+    {
+      "image_name": "image_108.jpg",
+      "total_value_cents": 50,
+      "total_value_euros": 0.50,
+      "coins_composition": [50]
+    },
+    {
+      "image_name": "image_109.jpg",
+      "total_value_cents": 22,
+      "total_value_euros": 0.22,
+      "coins_composition": [20, 2]
+    },
+    {
+      "image_name": "image_110.jpg",
+      "total_value_cents": 3,
+      "total_value_euros": 0.03,
+      "coins_composition": [2, 1]
+    },
+    {
+      "image_name": "image_111.jpg",
+      "total_value_cents": 8,
+      "total_value_euros": 0.08,
+      "coins_composition": [5, 2, 1]
+    },
+    {
+      "image_name": "image_112.jpg",
+      "total_value_cents": 16,
+      "total_value_euros": 0.16,
+      "coins_composition": [10, 5, 1]
+    },
+    {
+      "image_name": "image_113.jpg",
+      "total_value_cents": 200,
+      "total_value_euros": 2.00,
+      "coins_composition": [200]
+    },
+    {
+      "image_name": "image_114.jpg",
+      "total_value_cents": 10,
+      "total_value_euros": 0.10,
+      "coins_composition": [10]
+    },
+    {
+      "image_name": "image_115.jpg",
+      "total_value_cents": 370,
+      "total_value_euros": 3.70,
+      "coins_composition": [200, 100, 50, 20]
+    },
+    {
+      "image_name": "image_116.jpg",
+      "total_value_cents": 100,
+      "total_value_euros": 1.00,
+      "coins_composition": [100]
+    },
+    {
+      "image_name": "image_117.jpg",
+      "total_value_cents": 2,
+      "total_value_euros": 0.02,
+      "coins_composition": [2]
+    },
+    {
+      "image_name": "image_118.jpg",
+      "total_value_cents": 388,
+      "total_value_euros": 3.88,
+      "coins_composition": [200, 100, 50, 20, 10, 5, 2, 1]
+    },
+    {
+      "image_name": "image_119.jpg",
+      "total_value_cents": 1,
+      "total_value_euros": 0.01,
+      "coins_composition": [1]
+    },
+    {
+      "image_name": "image_120.jpg",
+      "total_value_cents": 105,
+      "total_value_euros": 1.05,
+      "coins_composition": [100, 5]
+    },
+    {
+      "image_name": "image_121.jpg",
+      "total_value_cents": 108,
+      "total_value_euros": 1.08,
+      "coins_composition": [100, 5, 2, 1]
+    },
+    {
+      "image_name": "image_122.jpg",
+      "total_value_cents": 8,
+      "total_value_euros": 0.08,
+      "coins_composition": [5, 2, 1]
+    },
+    {
+      "image_name": "image_123.jpg",
+      "total_value_cents": 1,
+      "total_value_euros": 0.01,
+      "coins_composition": [1]
+    },
+    {
+      "image_name": "image_124.jpg",
+      "total_value_cents": 13,
+      "total_value_euros": 0.13,
+      "coins_composition": [10, 2, 1]
+    },
+    {
+      "image_name": "image_125.jpg",
+      "total_value_cents": 120,
+      "total_value_euros": 1.20,
+      "coins_composition": [100, 20]
+    },
+    {
+      "image_name": "image_126.jpg",
+      "total_value_cents": 13,
+      "total_value_euros": 0.13,
+      "coins_composition": [10, 2, 1]
+    },
+    {
+      "image_name": "image_127.jpg",
+      "total_value_cents": 3,
+      "total_value_euros": 0.03,
+      "coins_composition": [2, 1]
+    },
+    {
+      "image_name": "image_128.jpg",
+      "total_value_cents": 125,
+      "total_value_euros": 1.25,
+      "coins_composition": [100, 20, 5]
+    },
+    {
+      "image_name": "image_129.jpg",
+      "total_value_cents": 2,
+      "total_value_euros": 0.02,
+      "coins_composition": [2]
+    },
+    {
+      "image_name": "image_130.jpg",
+      "total_value_cents": 120,
+      "total_value_euros": 1.20,
+      "coins_composition": [100, 20]
+    },
+    {
+      "image_name": "image_131.jpg",
+      "total_value_cents": 10,
+      "total_value_euros": 0.10,
+      "coins_composition": [10]
+    },
+    {
+      "image_name": "image_132.jpg",
+      "total_value_cents": 110,
+      "total_value_euros": 1.10,
+      "coins_composition": [50, 20, 20, 20]
+    },
+    {
+      "image_name": "image_133.jpg",
+      "total_value_cents": 103,
+      "total_value_euros": 1.03,
+      "coins_composition": [100, 2, 1]
+    },
+    {
+      "image_name": "image_134.jpg",
+      "total_value_cents": 300,
+      "total_value_euros": 3.00,
+      "coins_composition": [200, 100]
+    },
+    {
+      "image_name": "image_135.jpg",
+      "total_value_cents": 10,
+      "total_value_euros": 0.10,
+      "coins_composition": [10]
+    },
+    {
+      "image_name": "image_136.jpg",
+      "total_value_cents": 210,
+      "total_value_euros": 2.10,
+      "coins_composition": [200, 10]
+    },
+    {
+      "image_name": "image_137.jpg",
+      "total_value_cents": 13,
+      "total_value_euros": 0.13,
+      "coins_composition": [10, 2, 1]
+    },
+    {
+      "image_name": "image_138.jpg",
+      "total_value_cents": 60,
+      "total_value_euros": 0.60,
+      "coins_composition": [20, 20, 20]
+    },
+    {
+      "image_name": "image_139.jpg",
+      "total_value_cents": 7,
+      "total_value_euros": 0.07,
+      "coins_composition": [5, 2]
+    },
+    {
+      "image_name": "image_140.jpg",
+      "total_value_cents": 12,
+      "total_value_euros": 0.12,
+      "coins_composition": [10, 2]
+    },
+    {
+      "image_name": "image_141.jpg",
+      "total_value_cents": 1,
+      "total_value_euros": 0.01,
+      "coins_composition": [1]
+    },
+    {
+      "image_name": "image_142.jpg",
+      "total_value_cents": 102,
+      "total_value_euros": 1.02,
+      "coins_composition": [100, 2]
+    }
+  ],
+  "summary": {
+    "total_value_cents": 13105,
+    "total_value_euros": 131.05,
+    "average_value_per_image_euros": 0.92,
+    "images_processed": 142
+  }
+}
